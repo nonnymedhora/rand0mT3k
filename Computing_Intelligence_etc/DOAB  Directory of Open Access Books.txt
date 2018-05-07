@@ -1,0 +1,1078 @@
+<https://www.doabooks.org/doab?uiLanguage=en>
+<https://www.doabooks.org/doab?uiLanguage=en>  
+
+Search <https://www.doabooks.org/doab?func=search&uiLanguage=en> Browse
+<https://www.doabooks.org/doab?func=browse&uiLanguage=en>
+DOABlog
+<https://www.doabooks.org/doab?func=loadTemplate&template=doablog&uiLanguage=en>
+FAQ
+<https://www.doabooks.org/doab?func=loadTemplate&template=faq&uiLanguage=en>
+Support
+<https://www.doabooks.org/doab?func=loadTemplate&template=supportDOAB&uiLanguage=en>
+For publishers
+<https://www.doabooks.org/doab?func=forPublishers&uiLanguage=en> Our
+sponsors
+<https://www.doabooks.org/doab?func=loadTemplate&template=sponsors&uiLanguage=en>
+About <https://www.doabooks.org/doab?func=about&uiLanguage=en> Contact
+<javascript:openWdw2('/doab?func=feedback&uiLanguage=en','600','500','2','20','false','contact')>
+<https://www.doabooks.org/doab?func=rss>
+By title <https://www.doabooks.org/doab?func=browse&uiLanguage=en> By
+subject <https://www.doabooks.org/doab?func=subject&uiLanguage=en> By
+publisher <https://www.doabooks.org/doab?func=publisher&uiLanguage=en>
+
+Academia Press
+<https://www.doabooks.org/doab?func=publisher&pId=1106&uiLanguage=en>
+(31 books)
+
+Academic Studies Press
+<https://www.doabooks.org/doab?func=publisher&pId=1376&uiLanguage=en>
+(56 books)
+
+Accademia University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1474&uiLanguage=en>
+(14 books)
+
+African Minds
+<https://www.doabooks.org/doab?func=publisher&pId=1289&uiLanguage=en>
+(13 books)
+
+Akademie Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1551&uiLanguage=en> (1
+books)
+
+Alpara
+<https://www.doabooks.org/doab?func=publisher&pId=1473&uiLanguage=en>
+(36 books)
+
+Amsterdam University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1089&uiLanguage=en>
+(319 books)
+
+Anthem Press
+<https://www.doabooks.org/doab?func=publisher&pId=1436&uiLanguage=en> (7
+books)
+
+AntropoWeb
+<https://www.doabooks.org/doab?func=publisher&pId=1203&uiLanguage=en> (3
+books)
+
+ANU Press
+<https://www.doabooks.org/doab?func=publisher&pId=1233&uiLanguage=en>
+(487 books)
+
+AOSIS
+<https://www.doabooks.org/doab?func=publisher&pId=1310&uiLanguage=en>
+(23 books)
+
+Arco
+<https://www.doabooks.org/doab?func=publisher&pId=1483&uiLanguage=en> (1
+books)
+
+Ariadna Ediciones
+<https://www.doabooks.org/doab?func=publisher&pId=1354&uiLanguage=en>
+(21 books)
+
+Athabasca University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1119&uiLanguage=en>
+(124 books)
+
+Austrian Academy of Sciences Press
+<https://www.doabooks.org/doab?func=publisher&pId=1159&uiLanguage=en> (2
+books)
+
+Berg Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1087&uiLanguage=en> (6
+books)
+
+Berghahn Books
+<https://www.doabooks.org/doab?func=publisher&pId=1269&uiLanguage=en>
+(11 books)
+
+Bloomsbury Academic
+<https://www.doabooks.org/doab?func=publisher&pId=1131&uiLanguage=en>
+(160 books)
+
+Bloomsbury Qatar Foundation Journals
+<https://www.doabooks.org/doab?func=publisher&pId=1236&uiLanguage=en> (3
+books)
+
+Böhlau
+<https://www.doabooks.org/doab?func=publisher&pId=1182&uiLanguage=en>
+(225 books)
+
+Boydell & Brewer
+<https://www.doabooks.org/doab?func=publisher&pId=1308&uiLanguage=en> (1
+books)
+
+Brandeis University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1357&uiLanguage=en> (4
+books)
+
+Brepols
+<https://www.doabooks.org/doab?func=publisher&pId=1488&uiLanguage=en> (4
+books)
+
+Brill
+<https://www.doabooks.org/doab?func=publisher&pId=1111&uiLanguage=en>
+(237 books)
+
+Brookings Institution Press
+<https://www.doabooks.org/doab?func=publisher&pId=1552&uiLanguage=en> (4
+books)
+
+bu,press Bozen-Bolzano University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1386&uiLanguage=en>
+(11 books)
+
+C.H.Beck
+<https://www.doabooks.org/doab?func=publisher&pId=1485&uiLanguage=en>
+(21 books)
+
+Cambridge University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1244&uiLanguage=en> (9
+books)
+
+Canadian Institute of Ukrainian Studies Press
+<https://www.doabooks.org/doab?func=publisher&pId=1342&uiLanguage=en> (1
+books)
+
+Cappelen Damm Akademisk/NOASP (Nordic Open Access Scholarly Publishing)
+<https://www.doabooks.org/doab?func=publisher&pId=1309&uiLanguage=en>
+(29 books)
+
+Carl Grossmann Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1409&uiLanguage=en> (7
+books)
+
+Carrières Sociales Editions
+<https://www.doabooks.org/doab?func=publisher&pId=1508&uiLanguage=en> (9
+books)
+
+Casa de Velázquez
+<https://www.doabooks.org/doab?func=publisher&pId=1464&uiLanguage=en>
+(41 books)
+
+CEDEJ - Égypte/Soudan
+<https://www.doabooks.org/doab?func=publisher&pId=1463&uiLanguage=en>
+(32 books)
+
+CEFAS - Centre français d’archéologie et de sciences sociales
+<https://www.doabooks.org/doab?func=publisher&pId=1511&uiLanguage=en>
+(10 books)
+
+Central European University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1198&uiLanguage=en>
+(37 books)
+
+Centre for Research in Reasoning, Argumentation and Rhetoric (CRRAR):
+Windsor Studies in Argumentation
+<https://www.doabooks.org/doab?func=publisher&pId=1213&uiLanguage=en> (2
+books)
+
+Centre français des études éthiopiennes
+<https://www.doabooks.org/doab?func=publisher&pId=1475&uiLanguage=en>
+(15 books)
+
+Centre Jacques-Berque
+<https://www.doabooks.org/doab?func=publisher&pId=1461&uiLanguage=en>
+(19 books)
+
+Centro de estudios mexicanos y centroamericanos
+<https://www.doabooks.org/doab?func=publisher&pId=1515&uiLanguage=en>
+(70 books)
+
+Centro de Estudos Internacionais
+<https://www.doabooks.org/doab?func=publisher&pId=1471&uiLanguage=en> (7
+books)
+
+Chronos Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1356&uiLanguage=en>
+(10 books)
+
+CIDEHUS
+<https://www.doabooks.org/doab?func=publisher&pId=1499&uiLanguage=en>
+(17 books)
+
+CNRS Éditions
+<https://www.doabooks.org/doab?func=publisher&pId=1297&uiLanguage=en>
+(87 books)
+
+Co-Action Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1118&uiLanguage=en> (2
+books)
+
+Collège de France
+<https://www.doabooks.org/doab?func=publisher&pId=1199&uiLanguage=en>
+(142 books)
+
+Cornell University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1384&uiLanguage=en>
+(42 books)
+
+Dartmouth College Press
+<https://www.doabooks.org/doab?func=publisher&pId=1358&uiLanguage=en> (4
+books)
+
+De Gruyter
+<https://www.doabooks.org/doab?func=publisher&pId=1145&uiLanguage=en>
+(807 books)
+
+De Gruyter Mouton
+<https://www.doabooks.org/doab?func=publisher&pId=1437&uiLanguage=en> (6
+books)
+
+De Gruyter Oldenbourg
+<https://www.doabooks.org/doab?func=publisher&pId=1438&uiLanguage=en> (3
+books)
+
+De Gruyter Saur
+<https://www.doabooks.org/doab?func=publisher&pId=1439&uiLanguage=en> (2
+books)
+
+Duke University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1229&uiLanguage=en>
+(27 books)
+
+Edinburgh University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1230&uiLanguage=en>
+(27 books)
+
+Edition Open Access
+<https://www.doabooks.org/doab?func=publisher&pId=1405&uiLanguage=en>
+(28 books)
+
+Edition Praesens
+<https://www.doabooks.org/doab?func=publisher&pId=1271&uiLanguage=en> (2
+books)
+
+Edition Topoi
+<https://www.doabooks.org/doab?func=publisher&pId=1323&uiLanguage=en> (3
+books)
+
+Editions Alphil Presses universitaires suisses
+<https://www.doabooks.org/doab?func=publisher&pId=1345&uiLanguage=en>
+(11 books)
+
+Éditions Contrechamps
+<https://www.doabooks.org/doab?func=publisher&pId=1466&uiLanguage=en>
+(15 books)
+
+Éditions de la Bibliothèque publique d’information
+<https://www.doabooks.org/doab?func=publisher&pId=1443&uiLanguage=en>
+(64 books)
+
+Éditions de la Sorbonne
+<https://www.doabooks.org/doab?func=publisher&pId=1512&uiLanguage=en>
+(82 books)
+
+Editions de Linguistique et de Philologie
+<https://www.doabooks.org/doab?func=publisher&pId=1183&uiLanguage=en> (8
+books)
+
+Éditions de l’École des hautes études en sciences sociales
+<https://www.doabooks.org/doab?func=publisher&pId=1525&uiLanguage=en>
+(19 books)
+
+Éditions de l’IHEAL
+<https://www.doabooks.org/doab?func=publisher&pId=1442&uiLanguage=en>
+(62 books)
+
+Editions IES
+<https://www.doabooks.org/doab?func=publisher&pId=1331&uiLanguage=en> (2
+books)
+
+Editorial José Marti
+<https://www.doabooks.org/doab?func=publisher&pId=1288&uiLanguage=en> (1
+books)
+
+Edizioni Kaplan
+<https://www.doabooks.org/doab?func=publisher&pId=1505&uiLanguage=en> (6
+books)
+
+EDP SCIENCES
+<https://www.doabooks.org/doab?func=publisher&pId=1218&uiLanguage=en>
+(30 books)
+
+Edward Elgar Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1226&uiLanguage=en>
+(10 books)
+
+ENS Éditions
+<https://www.doabooks.org/doab?func=publisher&pId=1235&uiLanguage=en>
+(96 books)
+
+Fassbaender
+<https://www.doabooks.org/doab?func=publisher&pId=1272&uiLanguage=en> (1
+books)
+
+Finnish Literature Society / SKS
+<https://www.doabooks.org/doab?func=publisher&pId=1391&uiLanguage=en>
+(53 books)
+
+Firenze University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1090&uiLanguage=en>
+(89 books)
+
+Fordham University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1370&uiLanguage=en>
+(21 books)
+
+FrancoAngeli
+<https://www.doabooks.org/doab?func=publisher&pId=1305&uiLanguage=en>
+(26 books)
+
+Franz Steiner Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1403&uiLanguage=en> (2
+books)
+
+Frontiers Media SA
+<https://www.doabooks.org/doab?func=publisher&pId=1299&uiLanguage=en>
+(1068 books)
+
+Georg Olms Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1273&uiLanguage=en> (1
+books)
+
+Georg-Eckert-Institut - Leibniz-Institut für Internationale
+Schulbuchforschung bei Vandehoek & Ruprecht
+<https://www.doabooks.org/doab?func=publisher&pId=1454&uiLanguage=en> (1
+books)
+
+Gorgias Press; University of Birmingham
+<https://www.doabooks.org/doab?func=publisher&pId=1481&uiLanguage=en> (1
+books)
+
+Graduate Institute Publications
+<https://www.doabooks.org/doab?func=publisher&pId=1502&uiLanguage=en>
+(147 books)
+
+Harrassowitz Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1422&uiLanguage=en> (1
+books)
+
+Hart Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1295&uiLanguage=en> (1
+books)
+
+HAU Books
+<https://www.doabooks.org/doab?func=publisher&pId=1553&uiLanguage=en> (3
+books)
+
+Heidelberg University Publishing (heiUP)
+<https://www.doabooks.org/doab?func=publisher&pId=1395&uiLanguage=en> (6
+books)
+
+Hollitzer
+<https://www.doabooks.org/doab?func=publisher&pId=1529&uiLanguage=en> (1
+books)
+
+Holzhausen
+<https://www.doabooks.org/doab?func=publisher&pId=1274&uiLanguage=en>
+(16 books)
+
+innsbruck university press
+<https://www.doabooks.org/doab?func=publisher&pId=1472&uiLanguage=en>
+(16 books)
+
+Institut de la gestion publique et du développement économique
+<https://www.doabooks.org/doab?func=publisher&pId=1527&uiLanguage=en>
+(42 books)
+
+Institut de recherche sur le Maghreb contemporain
+<https://www.doabooks.org/doab?func=publisher&pId=1447&uiLanguage=en>
+(17 books)
+
+Institut de recherches et d'études sur le monde arabe et musulman -
+IREMAM
+<https://www.doabooks.org/doab?func=publisher&pId=1520&uiLanguage=en>
+(43 books)
+
+Institut français de recherche en Afrique - IFRA-Nigeria
+<https://www.doabooks.org/doab?func=publisher&pId=1517&uiLanguage=en>
+(22 books)
+
+Institut français d’études anatoliennes
+<https://www.doabooks.org/doab?func=publisher&pId=1457&uiLanguage=en>
+(44 books)
+
+Institut français d’études andines
+<https://www.doabooks.org/doab?func=publisher&pId=1510&uiLanguage=en>
+(124 books)
+
+Institute for Local Self-Government and Public Procurement Maribor
+<https://www.doabooks.org/doab?func=publisher&pId=1328&uiLanguage=en>
+(28 books)
+
+Intellect Ltd
+<https://www.doabooks.org/doab?func=publisher&pId=1366&uiLanguage=en> (5
+books)
+
+IOS Press
+<https://www.doabooks.org/doab?func=publisher&pId=1133&uiLanguage=en>
+(26 books)
+
+IRD Éditions
+<https://www.doabooks.org/doab?func=publisher&pId=1470&uiLanguage=en>
+(87 books)
+
+Istituto per la storia del pensiero filosofico e scientifico moderno -
+National Research Council
+<https://www.doabooks.org/doab?func=publisher&pId=1264&uiLanguage=en> (5
+books)
+
+IWA Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1319&uiLanguage=en>
+(10 books)
+
+Jan Sramek Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1184&uiLanguage=en> (5
+books)
+
+John Benjamins Publishing Company
+<https://www.doabooks.org/doab?func=publisher&pId=1171&uiLanguage=en>
+(22 books)
+
+jovis Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1318&uiLanguage=en> (1
+books)
+
+K. G. Saur
+<https://www.doabooks.org/doab?func=publisher&pId=1440&uiLanguage=en> (2
+books)
+
+Karnac
+<https://www.doabooks.org/doab?func=publisher&pId=1263&uiLanguage=en> (1
+books)
+
+KIT Scientific Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1094&uiLanguage=en>
+(92 books)
+
+Koninklijke van Gorcum
+<https://www.doabooks.org/doab?func=publisher&pId=1168&uiLanguage=en> (1
+books)
+
+Konstanz University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1311&uiLanguage=en> (1
+books)
+
+Kriterium
+<https://www.doabooks.org/doab?func=publisher&pId=1486&uiLanguage=en> (7
+books)
+
+Language Science Press
+<https://www.doabooks.org/doab?func=publisher&pId=1243&uiLanguage=en>
+(57 books)
+
+Ledizioni - LediPublishing
+<https://www.doabooks.org/doab?func=publisher&pId=1201&uiLanguage=en>
+(121 books)
+
+Leiden University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1095&uiLanguage=en>
+(27 books)
+
+Leuven University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1372&uiLanguage=en>
+(130 books)
+
+Librairie Droz
+<https://www.doabooks.org/doab?func=publisher&pId=1333&uiLanguage=en> (5
+books)
+
+LIBRUM Publishers & Editors LLC
+<https://www.doabooks.org/doab?func=publisher&pId=1428&uiLanguage=en>
+(18 books)
+
+LIT Verlag GmbH & Co. KG
+<https://www.doabooks.org/doab?func=publisher&pId=1312&uiLanguage=en> (5
+books)
+
+Liverpool University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1109&uiLanguage=en>
+(27 books)
+
+Manchester University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1088&uiLanguage=en>
+(155 books)
+
+Mandelbaum Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1426&uiLanguage=en> (1
+books)
+
+MDPI AG - Multidisciplinary Digital Publishing Institute
+<https://www.doabooks.org/doab?func=publisher&pId=1222&uiLanguage=en>
+(349 books)
+
+Medizinisch Wissenschaftliche Verlagsgeschellschaft
+<https://www.doabooks.org/doab?func=publisher&pId=1530&uiLanguage=en> (1
+books)
+
+meson press
+<https://www.doabooks.org/doab?func=publisher&pId=1348&uiLanguage=en>
+(19 books)
+
+Modern Academic Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1373&uiLanguage=en>
+(10 books)
+
+Mohr Siebeck
+<https://www.doabooks.org/doab?func=publisher&pId=1549&uiLanguage=en> (8
+books)
+
+Monash University Publishing
+<https://www.doabooks.org/doab?func=publisher&pId=1359&uiLanguage=en>
+(11 books)
+
+MPublishing
+<https://www.doabooks.org/doab?func=publisher&pId=1134&uiLanguage=en> (6
+books)
+
+Musikantiquariat und Verlag Hans Schneider
+<https://www.doabooks.org/doab?func=publisher&pId=1185&uiLanguage=en> (1
+books)
+
+National Taiwan University Press, Vandenhoeck & Ruprecht V&R Unipress
+<https://www.doabooks.org/doab?func=publisher&pId=1554&uiLanguage=en> (1
+books)
+
+Naturhistorisches Museum Wien
+<https://www.doabooks.org/doab?func=publisher&pId=1360&uiLanguage=en> (1
+books)
+
+Newfound Press
+<https://www.doabooks.org/doab?func=publisher&pId=1152&uiLanguage=en>
+(46 books)
+
+Nomos
+<https://www.doabooks.org/doab?func=publisher&pId=1313&uiLanguage=en> (1
+books)
+
+Northwestern University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1458&uiLanguage=en>
+(10 books)
+
+Novalis Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1186&uiLanguage=en> (1
+books)
+
+NUS Press
+<https://www.doabooks.org/doab?func=publisher&pId=1451&uiLanguage=en> (1
+books)
+
+Open Book Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1132&uiLanguage=en>
+(128 books)
+
+Open Humanities Press
+<https://www.doabooks.org/doab?func=publisher&pId=1136&uiLanguage=en>
+(35 books)
+
+OpenEdition Press
+<https://www.doabooks.org/doab?func=publisher&pId=1147&uiLanguage=en>
+(26 books)
+
+Orient Blackswan
+<https://www.doabooks.org/doab?func=publisher&pId=1325&uiLanguage=en> (1
+books)
+
+Österreichisches Archäologisches Institut
+<https://www.doabooks.org/doab?func=publisher&pId=1187&uiLanguage=en> (9
+books)
+
+Oxford University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1210&uiLanguage=en>
+(45 books)
+
+Palgrave Macmillan
+<https://www.doabooks.org/doab?func=publisher&pId=1112&uiLanguage=en>
+(82 books)
+
+Penn State University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1361&uiLanguage=en> (6
+books)
+
+PETER LANG LTD International Academic Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1275&uiLanguage=en>
+(24 books)
+
+Phoibos Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1314&uiLanguage=en> (2
+books)
+
+Pickering & Chatto Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1284&uiLanguage=en> (1
+books)
+
+Pluto Press
+<https://www.doabooks.org/doab?func=publisher&pId=1362&uiLanguage=en>
+(27 books)
+
+Policy Press
+<https://www.doabooks.org/doab?func=publisher&pId=1385&uiLanguage=en>
+(14 books)
+
+Polish Botanical Society
+<https://www.doabooks.org/doab?func=publisher&pId=1283&uiLanguage=en> (3
+books)
+
+Poznań Archaeological Museum
+<https://www.doabooks.org/doab?func=publisher&pId=1380&uiLanguage=en> (1
+books)
+
+Presses agronomiques de Gembloux (Liege University)
+<https://www.doabooks.org/doab?func=publisher&pId=1195&uiLanguage=en>
+(22 books)
+
+Presses de l'Université de Montréal
+<https://www.doabooks.org/doab?func=publisher&pId=1355&uiLanguage=en>
+(80 books)
+
+Presses de l’Ifpo
+<https://www.doabooks.org/doab?func=publisher&pId=1200&uiLanguage=en>
+(127 books)
+
+Presses de l’Inalco
+<https://www.doabooks.org/doab?func=publisher&pId=1528&uiLanguage=en> (9
+books)
+
+Presses des Mines
+<https://www.doabooks.org/doab?func=publisher&pId=1503&uiLanguage=en>
+(35 books)
+
+Presses Sorbonne Nouvelle
+<https://www.doabooks.org/doab?func=publisher&pId=1476&uiLanguage=en>
+(100 books)
+
+Presses universitaires d'Aix-Marseille
+<https://www.doabooks.org/doab?func=publisher&pId=1449&uiLanguage=en>
+(27 books)
+
+Presses universitaires de Caen
+<https://www.doabooks.org/doab?func=publisher&pId=1469&uiLanguage=en>
+(57 books)
+
+Presses universitaires de la Méditerranée
+<https://www.doabooks.org/doab?func=publisher&pId=1507&uiLanguage=en>
+(42 books)
+
+Presses Universitaires de la Méditerranée - PULM
+<https://www.doabooks.org/doab?func=publisher&pId=1548&uiLanguage=en> (1
+books)
+
+Presses universitaires de Liège
+<https://www.doabooks.org/doab?func=publisher&pId=1441&uiLanguage=en>
+(45 books)
+
+Presses universitaires de Louvain
+<https://www.doabooks.org/doab?func=publisher&pId=1456&uiLanguage=en>
+(46 books)
+
+Presses universitaires de Paris Nanterre
+<https://www.doabooks.org/doab?func=publisher&pId=1462&uiLanguage=en>
+(66 books)
+
+Presses universitaires de Provence
+<https://www.doabooks.org/doab?func=publisher&pId=1521&uiLanguage=en>
+(122 books)
+
+Presses universitaires de Rennes
+<https://www.doabooks.org/doab?func=publisher&pId=1430&uiLanguage=en>
+(528 books)
+
+Presses universitaires du Septentrion
+<https://www.doabooks.org/doab?func=publisher&pId=1424&uiLanguage=en>
+(98 books)
+
+Presses universitaires François-Rabelais
+<https://www.doabooks.org/doab?func=publisher&pId=1453&uiLanguage=en>
+(91 books)
+
+Primus Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1315&uiLanguage=en> (1
+books)
+
+Projektverlag
+<https://www.doabooks.org/doab?func=publisher&pId=1276&uiLanguage=en> (1
+books)
+
+Publications du Centre Jean Bérard
+<https://www.doabooks.org/doab?func=publisher&pId=1482&uiLanguage=en>
+(38 books)
+
+punctum books
+<https://www.doabooks.org/doab?func=publisher&pId=1205&uiLanguage=en>
+(201 books)
+
+Purdue University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1234&uiLanguage=en>
+(12 books)
+
+R. Valent
+<https://www.doabooks.org/doab?func=publisher&pId=1330&uiLanguage=en> (1
+books)
+
+Rodopi
+<https://www.doabooks.org/doab?func=publisher&pId=1277&uiLanguage=en> (1
+books)
+
+Rosenberg & Sellier
+<https://www.doabooks.org/doab?func=publisher&pId=1465&uiLanguage=en>
+(17 books)
+
+Routledge
+<https://www.doabooks.org/doab?func=publisher&pId=1278&uiLanguage=en>
+(48 books)
+
+Rowman & Littlefield International
+<https://www.doabooks.org/doab?func=publisher&pId=1382&uiLanguage=en> (1
+books)
+
+Royal College of General Practitioners (RCGP)
+<https://www.doabooks.org/doab?func=publisher&pId=1431&uiLanguage=en> (1
+books)
+
+Rutgers University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1232&uiLanguage=en>
+(13 books)
+
+San Paolo ‒ Gregorian & Biblical Press
+<https://www.doabooks.org/doab?func=publisher&pId=1346&uiLanguage=en> (1
+books)
+
+Scheidegger & Spiess
+<https://www.doabooks.org/doab?func=publisher&pId=1423&uiLanguage=en> (1
+books)
+
+Schwabe Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1340&uiLanguage=en> (3
+books)
+
+SciELO Books - Centro Edelstein
+<https://www.doabooks.org/doab?func=publisher&pId=1260&uiLanguage=en>
+(114 books)
+
+SciELO Books - Editora da UFRGS
+<https://www.doabooks.org/doab?func=publisher&pId=1497&uiLanguage=en> (8
+books)
+
+SciELO Books - Editora Fap-Unifesp
+<https://www.doabooks.org/doab?func=publisher&pId=1257&uiLanguage=en> (4
+books)
+
+SciELO Books - Editora FIOCRUZ
+<https://www.doabooks.org/doab?func=publisher&pId=1252&uiLanguage=en>
+(140 books)
+
+SciELO Books - Editora Mackenzie
+<https://www.doabooks.org/doab?func=publisher&pId=1259&uiLanguage=en> (3
+books)
+
+SciELO Books - Editora UEPG
+<https://www.doabooks.org/doab?func=publisher&pId=1444&uiLanguage=en> (9
+books)
+
+SciELO Books - Editora UNESP
+<https://www.doabooks.org/doab?func=publisher&pId=1251&uiLanguage=en>
+(182 books)
+
+SciELO Books - Editorial Universidad del Rosario
+<https://www.doabooks.org/doab?func=publisher&pId=1496&uiLanguage=en> (2
+books)
+
+SciELO Books - Editus
+<https://www.doabooks.org/doab?func=publisher&pId=1468&uiLanguage=en>
+(10 books)
+
+SciELO Books - EDUEL
+<https://www.doabooks.org/doab?func=publisher&pId=1255&uiLanguage=en> (2
+books)
+
+SciELO Books - EDUEM
+<https://www.doabooks.org/doab?func=publisher&pId=1258&uiLanguage=en> (6
+books)
+
+SciELO Books - EDUEPB
+<https://www.doabooks.org/doab?func=publisher&pId=1254&uiLanguage=en>
+(40 books)
+
+SciELO Books - EDUERJ
+<https://www.doabooks.org/doab?func=publisher&pId=1535&uiLanguage=en> (2
+books)
+
+SciELO Books - EDUFBA
+<https://www.doabooks.org/doab?func=publisher&pId=1253&uiLanguage=en>
+(99 books)
+
+SciELO Books - JBRJ
+<https://www.doabooks.org/doab?func=publisher&pId=1261&uiLanguage=en> (2
+books)
+
+SciELO Books - ReBentos
+<https://www.doabooks.org/doab?func=publisher&pId=1338&uiLanguage=en> (1
+books)
+
+SciELO Books - Saúde Brasil 2030
+<https://www.doabooks.org/doab?func=publisher&pId=1267&uiLanguage=en> (5
+books)
+
+SciELO Books - Sociedade Brasileira de Zoologia
+<https://www.doabooks.org/doab?func=publisher&pId=1291&uiLanguage=en> (3
+books)
+
+Seismo
+<https://www.doabooks.org/doab?func=publisher&pId=1320&uiLanguage=en> (2
+books)
+
+Siglo del Hombre Editores
+<https://www.doabooks.org/doab?func=publisher&pId=1478&uiLanguage=en>
+(10 books)
+
+Société des Océanistes
+<https://www.doabooks.org/doab?func=publisher&pId=1506&uiLanguage=en>
+(18 books)
+
+Springer
+<https://www.doabooks.org/doab?func=publisher&pId=1161&uiLanguage=en>
+(352 books)
+
+Stichting Archiefpublicaties
+<https://www.doabooks.org/doab?func=publisher&pId=1531&uiLanguage=en> (1
+books)
+
+Stockholm University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1287&uiLanguage=en>
+(13 books)
+
+Studien Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1188&uiLanguage=en>
+(14 books)
+
+Tampere University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1337&uiLanguage=en>
+(21 books)
+
+Taylor & Francis
+<https://www.doabooks.org/doab?func=publisher&pId=1110&uiLanguage=en>
+(15 books)
+
+Temple University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1231&uiLanguage=en> (9
+books)
+
+The MIT Press
+<https://www.doabooks.org/doab?func=publisher&pId=1480&uiLanguage=en> (5
+books)
+
+The Ohio State University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1432&uiLanguage=en> (4
+books)
+
+transcript Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1225&uiLanguage=en>
+(105 books)
+
+Turia und Kant
+<https://www.doabooks.org/doab?func=publisher&pId=1180&uiLanguage=en> (8
+books)
+
+Ubiquity Press
+<https://www.doabooks.org/doab?func=publisher&pId=1194&uiLanguage=en>
+(35 books)
+
+UCL Press
+<https://www.doabooks.org/doab?func=publisher&pId=1303&uiLanguage=en>
+(64 books)
+
+UCT Press
+<https://www.doabooks.org/doab?func=publisher&pId=1452&uiLanguage=en> (3
+books)
+
+UGA Éditions
+<https://www.doabooks.org/doab?func=publisher&pId=1467&uiLanguage=en> (8
+books)
+
+Universidad Carlos III de Madrid. Figuerola Institute of Social Science
+History
+<https://www.doabooks.org/doab?func=publisher&pId=1246&uiLanguage=en>
+(107 books)
+
+Universidad Externado de Colombia
+<https://www.doabooks.org/doab?func=publisher&pId=1501&uiLanguage=en>
+(16 books)
+
+Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de
+la Educación
+<https://www.doabooks.org/doab?func=publisher&pId=1294&uiLanguage=en>
+(61 books)
+
+Universitätsverlag Göttingen
+<https://www.doabooks.org/doab?func=publisher&pId=1092&uiLanguage=en>
+(299 books)
+
+University of Adelaide Press
+<https://www.doabooks.org/doab?func=publisher&pId=1149&uiLanguage=en>
+(64 books)
+
+University of Calgary Press
+<https://www.doabooks.org/doab?func=publisher&pId=1155&uiLanguage=en>
+(87 books)
+
+University of California Press
+<https://www.doabooks.org/doab?func=publisher&pId=1344&uiLanguage=en>
+(45 books)
+
+University of Gothenburg - Department of Historical Studies
+<https://www.doabooks.org/doab?func=publisher&pId=1489&uiLanguage=en> (1
+books)
+
+University of Huddersfield Press
+<https://www.doabooks.org/doab?func=publisher&pId=1250&uiLanguage=en> (9
+books)
+
+University of Michigan Press
+<https://www.doabooks.org/doab?func=publisher&pId=1139&uiLanguage=en>
+(75 books)
+
+University of North Carolina Press
+<https://www.doabooks.org/doab?func=publisher&pId=1532&uiLanguage=en> (1
+books)
+
+University of North Texas Press
+<https://www.doabooks.org/doab?func=publisher&pId=1374&uiLanguage=en>
+(88 books)
+
+University of Ottawa Press / Les Presses de l’Université d’Ottawa
+<https://www.doabooks.org/doab?func=publisher&pId=1304&uiLanguage=en>
+(10 books)
+
+University of Rochester Press
+<https://www.doabooks.org/doab?func=publisher&pId=1280&uiLanguage=en> (1
+books)
+
+University of Tartu Press
+<https://www.doabooks.org/doab?func=publisher&pId=1167&uiLanguage=en>
+(22 books)
+
+University of Toronto Press
+<https://www.doabooks.org/doab?func=publisher&pId=1351&uiLanguage=en>
+(12 books)
+
+University of Wales Press
+<https://www.doabooks.org/doab?func=publisher&pId=1113&uiLanguage=en> (5
+books)
+
+University of Westminster Press
+<https://www.doabooks.org/doab?func=publisher&pId=1400&uiLanguage=en>
+(10 books)
+
+University Press of Colorado
+<https://www.doabooks.org/doab?func=publisher&pId=1352&uiLanguage=en>
+(20 books)
+
+Utah State University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1494&uiLanguage=en> (3
+books)
+
+Utah State University Press/ Computers and Composition Digital Press
+<https://www.doabooks.org/doab?func=publisher&pId=1153&uiLanguage=en> (8
+books)
+
+Utah State University, University Libraries
+<https://www.doabooks.org/doab?func=publisher&pId=1146&uiLanguage=en>
+(97 books)
+
+UTS ePRESS
+<https://www.doabooks.org/doab?func=publisher&pId=1495&uiLanguage=en>
+(12 books)
+
+V&R Academic
+<https://www.doabooks.org/doab?func=publisher&pId=1534&uiLanguage=en> (1
+books)
+
+V&R unipress
+<https://www.doabooks.org/doab?func=publisher&pId=1224&uiLanguage=en> (5
+books)
+
+Vandenhoeck & Ruprecht
+<https://www.doabooks.org/doab?func=publisher&pId=1445&uiLanguage=en> (4
+books)
+
+Verlag Barbara Budrich
+<https://www.doabooks.org/doab?func=publisher&pId=1189&uiLanguage=en> (1
+books)
+
+Verlag Bibliothek der Provinz GmbH
+<https://www.doabooks.org/doab?func=publisher&pId=1363&uiLanguage=en> (1
+books)
+
+Verlag der Österreichischen Akademie der Wissenschaften
+<https://www.doabooks.org/doab?func=publisher&pId=1181&uiLanguage=en>
+(51 books)
+
+Verlag der Technischen Universität Graz
+<https://www.doabooks.org/doab?func=publisher&pId=1516&uiLanguage=en> (2
+books)
+
+Verlag des Landesmuseums für Kärnten
+<https://www.doabooks.org/doab?func=publisher&pId=1192&uiLanguage=en> (1
+books)
+
+Verlag Karl Alber
+<https://www.doabooks.org/doab?func=publisher&pId=1281&uiLanguage=en> (2
+books)
+
+Verlag Österreich GmbH
+<https://www.doabooks.org/doab?func=publisher&pId=1316&uiLanguage=en> (1
+books)
+
+Vittorio Klostermann GmbH
+<https://www.doabooks.org/doab?func=publisher&pId=1190&uiLanguage=en> (3
+books)
+
+Vytautas Magnus University
+<https://www.doabooks.org/doab?func=publisher&pId=1327&uiLanguage=en> (7
+books)
+
+W. Bertelsmann Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1533&uiLanguage=en>
+(28 books)
+
+Wageningen Academic Publishers
+<https://www.doabooks.org/doab?func=publisher&pId=1114&uiLanguage=en> (3
+books)
+
+Wallstein Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1191&uiLanguage=en> (2
+books)
+
+Waxmann Verlag
+<https://www.doabooks.org/doab?func=publisher&pId=1487&uiLanguage=en> (2
+books)
+
+Wilhelm Fink
+<https://www.doabooks.org/doab?func=publisher&pId=1282&uiLanguage=en> (1
+books)
+
+Wits University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1417&uiLanguage=en> (7
+books)
+
+World Scientific Publishing Co.
+<https://www.doabooks.org/doab?func=publisher&pId=1326&uiLanguage=en>
+(14 books)
+
+Yale University Press
+<https://www.doabooks.org/doab?func=publisher&pId=1353&uiLanguage=en> (3
+books)
+
+Zaglossus
+<https://www.doabooks.org/doab?func=publisher&pId=1317&uiLanguage=en> (1
+books)
+
+
+Directory of Open access Books is provided by OAPEN Foundation
+<http://www.oapen.org/> in cooperation with SemperTool
+<http://www.sempertool.dk/>
+©2018 SemperTool
+-->
