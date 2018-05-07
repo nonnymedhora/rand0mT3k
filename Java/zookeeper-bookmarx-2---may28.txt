@@ -1,0 +1,128 @@
+Apache ZooKeeper and the Fallacies of Distributed Computing
+http://nerds.airbnb.com/zookeeper-patrick-hunt/
+
+Apache CXF -- DOSGi Discovery  ZooKeeper 
+http://cxf.apache.org/dosgi-discovery.html
+
+Apache Zookeeper Introduction
+http://www.hakkalabs.co/articles/apache-zookeeper-introduction/
+
+Apache ZooKeeper: Part 1: A convenient service for your servers | Tech Blog
+https://tech.federatedmedia.net/apache-zookeeper-part-1-convenient-service-servers/
+
+Building Applications with ZooKeeper | O’Reilly | Hadoop: The Definitive…
+https://www.inkling.com/read/hadoop-definitive-guide-tom-white-3rd/chapter-14/building-applications-with
+
+Configuration management Using ZooKeeper.
+http://amrutbudihal.blogspot.com/2012/07/configuration-management-using-zookeeper.html
+
+Configuration management with ZooKeeper - YouTube
+https://www.youtube.com/watch?v=AFgzYRA_kys
+
+Configuration UI · Netflix/exhibitor Wiki · GitHub
+https://github.com/Netflix/exhibitor/wiki/Configuration-UI
+
+Default Cassandra and Zookeeper Servers with Customized Configuration - Clustering Guide 4.1.0 - WSO2 Documentation
+https://docs.wso2.org/display/Cluster/Default+Cassandra+and+Zookeeper+Servers+with+Customized+Configuration
+
+Distributed App Configuration with ZooKeeper, Jones and ZooKeeper.Net | .debug
+http://www.dexterlegaspi.com/2014/02/25/distributed-app-configuration-with-zookeeper-jones-and-zookeeper-net/
+
+Distributed Coordination With ZooKeeper Part 1: Introduction - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/06/distributed_coordination_with_zookeeper_part_1_introduction
+
+Distributed Coordination With ZooKeeper Part 2: Test Drive - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/06/distributed_coordination_with_zookeeper_part_2_test_drive
+
+Distributed Coordination With ZooKeeper Part 3: Group Membership Example - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/07/distributed_coordination_with_zookeeper_part_3_group_membership_example
+
+Distributed Coordination With ZooKeeper Part 4: Architecture from 30,000 Feet - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/07/distributed_coordination_with_zookeeper_part_4_architecture_from_30_000_feet
+
+Distributed Coordination With ZooKeeper Part 5: Building a Distributed Lock - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/07/distributed_coordination_with_zookeeper_part_5_building_a_distributed_lock
+
+Distributed Coordination With ZooKeeper Part 6: Wrapping Up - No Fluff Just Stuff
+http://nofluffjuststuff.com/blog/scott_leberknight/2013/07/distributed_coordination_with_zookeeper_part_6_wrapping_up
+
+Dynamic Reconfiguration of Apache ZooKeeper - SlideShare
+http://www.slideshare.net/Hadoop_Summit/dynamic-reconfiguration-of-zookeeper
+
+How-to: Use Apache ZooKeeper to Build Distributed Apps (and Why) | Cloudera Developer Blog
+http://blog.cloudera.com/blog/2013/02/how-to-use-apache-zookeeper-to-build-distributed-apps-and-why/
+
+Incubation Status Template - Apache Incubator  zookeeper
+https://incubator.apache.org/projects/curator.html
+
+Index - Apache ZooKeeper - Apache Software Foundation
+https://cwiki.apache.org/confluence/display/ZOOKEEPER/Index
+
+james-wu-shanghai/spring-zookeeper · GitHub
+https://github.com/james-wu-shanghai/spring-zookeeper
+
+java - Real World Use of Zookeeper - Stack Overflow
+http://stackoverflow.com/questions/1479442/real-world-use-of-zookeeper
+
+Jeyabarani's blog: ZooKeeper as distributed consensus service
+http://ksjeyabarani.blogspot.de/2012/11/zookeeper-as-distributed-consensus.html
+
+Making Pinterest — ZooKeeper Resilience at Pinterest
+http://engineering.pinterest.com/post/77933733851/zookeeper-resilience-at-pinterest
+
+Norbert | LinkedIn Data Team
+http://data.linkedin.com/opensource/norbert
+
+Operational problems with Zookeeper - Marcin bloguje
+http://marcin.cylke.com.pl/blog/2013/03/21/zookeeper-tips/
+
+Overview of Apache ZooKeeper - Tom Wheeler
+http://www.tomwheeler.com/publications/2012/zookeeper_tomwheeler_ll-20120607.pdf
+
+pyvideo.org - Configuration management with ZooKeeper
+http://pyvideo.org/video/1567/configuration-management-with-zookeeper
+
+Scott Leberknight's Weblog
+http://www.sleberknight.com/blog/sleberkn/tags/zookeeper
+http://www.sleberknight.com/blog/sleberkn/entry/distributed_coordination_with_zookeeper_part2
+
+Setup in Distributed Mode — Jubatus -ZooKeeper
+http://jubat.us/en/tutorial_distributed.html
+
+sleberknight/zookeeper-samples · GitHub
+https://github.com/sleberknight/zookeeper-samples
+
+So you want to be a zookeeper? - NGData | NGData
+http://www.ngdata.com/so-you-want-to-be-a-zookeeper/
+
+The Netflix Tech Blog: Introducing Curator - The Netflix ZooKeeper Library
+http://techblog.netflix.com/2011/11/introducing-curator-netflix-zookeeper.html
+
+Using ZooKeeper to Manage Configuration Files - Apache Solr Reference Guide - Apache Software Foundation
+https://cwiki.apache.org/confluence/display/solr/Using+ZooKeeper+to+Manage+Configuration+Files
+
+ZooKeeper - A Reliable, Scalable Distributed Coordination System  - High Scalability -
+http://highscalability.com/blog/2008/7/15/zookeeper-a-reliable-scalable-distributed-coordination-syste.html
+
+ZooKeeper fundamentals, deployment, and applications
+http://www.ibm.com/developerworks/library/bd-zookeeper/
+
+ZooKeeper Futures
+http://www.slideshare.net/cloudera/zookeeper-futures
+
+Zookeeper In Simple Words
+http://www.slideshare.net/fujohnwang/zookeeper-in-simple-words
+
+ZooKeeper Overview - Database - Database Skill
+http://www.databaseskill.com/4922920/
+
+ZooKeeper Primer | Javalobby
+http://java.dzone.com/articles/zookeeper-primer
+
+ZooKeepers, Puppet Masters and Clouds...
+http://engblog.nextdoor.com/post/34583564058/zookeepers-puppet-masters-and-clouds
+
+zookeeper-user - Using ZooKeeper for Configuration Managment
+http://zookeeper-user.578899.n2.nabble.com/Using-ZooKeeper-for-Configuration-Managment-td4052162.html
+
+

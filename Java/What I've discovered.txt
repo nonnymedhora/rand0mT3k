@@ -1,0 +1,8 @@
+What I've discovered:  
+- don't be a Technologist (aka. dreamer) if the company already has licenses in place or prefers to contract with typical big name providers for support
+- don't be a Toolsmith if the project/company has low budget (time or money)
+- don't be a Backend Warrior if the project/team/company is client-focused
+- don't be a GTD if everyone else is change/risk adverse
+- don't be a Front End Dev if the backend or middleware is still shaky
+- don't be the Team Lead unless your project/team lacks PM or experienced devs
+- don't be an Architect if the project/team already has a well-defined process and/or Business Analysts to help with requirements gathering, design decisions and documentation along the way

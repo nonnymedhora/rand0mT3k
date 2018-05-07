@@ -1,0 +1,51 @@
+A Java Virtual Machine ( JVM) process is separated into three segments called 
+generations—specif ically, the young, old, and permanent generations. The young 
+generation is sometimes referred to as the new generation, and the old generation is 
+sometimes referred to as the tenured generation. The young and old generations can 
+be given hints as to how big each is, but the exact size is calculated by the JVM. A 
+young generation size can be initialized with the –XX:NewSize argument and a ratio 
+given to calculate the old generation with –XX:NewRatio. If the –XX:NewRatio was 
+given a value of 2, this means the old generation is twice as large as the new genera-
+tion. Both the old and young generations are given an initial size by the JVM process 
+with the –Xms option and can grow to the size specif ied by the –Xmx option.
+The new generation is broken down into three subsegments: Eden, Survivor Space 
+I, and Survivor Space II. When an object is created in the JVM, it’s created f irst in 
+Eden, then moved to Survivor Space I, then moved to Survivor Space II, and finally
+moved to the old generation. The JVM moves the objects to each subsegment in the 
+young generation during minor garbage collection. When there is no more room in 
+the old generation for objects during a garbage collection process, the JVM triggers a 
+major garbage collection process that can have a negative performance impact on all 
+Java applications, which, in our case, are the YARN applications.
+One method to analyze memory usage on a running application is to use the jmap
+tool provided with most Java installations. The jmap tool can handle a number of dif-
+ferent tasks, but one that is highly useful is attaching itself to a running Java process 
+through the process ID.
+Here 
+we tell jmap to dump the heap for process 21341 to f ile mr-container.hprof.
+
+# jmap -dump:format=b,file=~/mr-container.hprof -F 21341
+Attaching to process ID 21341, please wait...
+Debugger attached successfully.
+Server compiler detected.
+JVM version is 20.6-b01
+Dumping heap to /opt/rm.hprof ...
+Finding object size using Printezis bits and skipping over...
+Finding object size using Printezis bits and skipping over...
+Heap dump file created 
+
+The heap dump can be read with the jhat utility, but a much better visual tool 
+is the Eclipse Memory Analyzer ( http://www.eclipse.org/mat/). Once installed, the 
+mr-container.hprof generated with jmap can opened in the Eclipse Memory Analyzer
+a number of reports can be run on the heap dump, showing 
+things like the largest memory objects. For example, Figure 6.15 shows a histogram 
+indicating which objects take up the most heap space in the JVM process.
+When the Eclipse Memory Analyzer initially opens a heap dump f ile, it creates sup-
+plemental index f iles so that the dump f ile can be opened much more quickly during 
+subsequent sessions. There is also an Object Query Language (OQL) window where 
+we can query the heap dump for specif ic objects with specif ic values.
+Analyzing JVM heap dumps is usually the last resort when you are trying to trou-
+bleshoot problematic Java processes; nevertheless, it’s a valuable skill for the advanced
+Hadoop and YARN administrator. It’s likely that you will want to monitor YARN
+container processes through Nagios and Ganglia with advanced scripting or program
+ming, but when those methods fail to f ind answers, the ability to sift through a JVM
+heap dump can prove to be an invaluable skill.

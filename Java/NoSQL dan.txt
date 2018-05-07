@@ -1,0 +1,8 @@
+DEFINITION AND INTRODUCTION 
+NoSQL is actually 
+an acronym that expands to “Not Only SQL.” Whatever the literal meaning, NoSQL is used 
+today as an umbrella term for all databases and data stores that don’t follow the popular and well-
+established RDBMS principles and often relate to large data sets accessed and manipulated on a 
+Web scale. This means NoSQL is not a single product or even a single technology. It represents 
+a class of products and a collection of diverse, and sometimes related, concepts about data 
+storage and manipulation.

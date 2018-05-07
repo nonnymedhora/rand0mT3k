@@ -1,0 +1,73 @@
+zookeeper is a  gr8 standalone distributed consensus system
+good for clustered coordination system &
+coordinated messaging system
+
+operational complexity
+$$$$ - costs
+availability-coherence trade off
+dont need distributed consensus
+
+3 areas of evaluation
+distributed consensus + coordination
+
+environment use case
+where is it running
+need an ops team
+cautious to add new moving parts to the env
+-- all engineers will need to understand
+
+will we be having a large# of servers running
+
+
+what is it doing - use cases of zookeeper
+distributed locking &
+service management
+
+dist lock
+good for message queue processing
+over which we have little power to control
+or machines fail while processing.
+
+all machines know who has the lock
+
+
+service management / discovery
+soa env
+want to know whats runnning where
+
+general registry of things
+
+
+manage configuration of services of clients
+dangerous though common use case
+
+=======================
+alternatives to zk
+
+load balancing
+round robin -- services are the same
+can use lb instead of zk
+
+--
+dns
+dist db - proven technology
+
+open source equivalent
+of google's chubby in a way
+for distd locking
+[ and support dns -- for dns scaling]
+--
+database
+
+zk has better availabilty than db
+coherence requirements
+nor distd locking within a dn
+
+service management
+
+------------------------------
+
+
+
+---
+camille fournier

@@ -1,0 +1,59 @@
+ Ecosystem
+Big Data ecosystem is evolving at a very rapid pace and it's difficult to keep track of the changes. The ecosystem provides a lot of choices (open source vs proprietary, free vs commercial, batch vs streaming). For a new-bee, it not only takes good amount of time and effort to get familiar with a framework, but it's also perplexing where to start.
+
+Hadoop has got a lot of attention and many start with Hadoop, but Hadoop is not the solution for everything. Let's take graph processing, Hama and Giraph (though in incubating) are better then Hadoop for it. This page attempts to give an idea of the ecosystem around Big Data.
+
+http://indoos.wordpress.com/2010/08/16/hadoop-ecosystem-world-map/ http://nosql.mypopescu.com/post/1541593207/quick-reference-hadoop-tools-ecosystem http://www.acunu.com/blogs/sean-owen/hadoop-universe/ http://karmasphere.com/Blog/making-sense-of-the-big-data-and-hadoop-ecosystem-finding-some-clarity.html http://www.onstrategies.com/blog/2011/06/06/hadoop-ecosystem-starts-crystallizing/ http://radar.oreilly.com/2012/02/what-is-apache-hadoop.html
+
+Here are some of the useful articles/blogs to get started with the Hadoop ecosystem.
+ 
+Sqoop
+
+https://blogs.apache.org/sqoop/entry/apache_sqoop_overview
+https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop
+
+HBase
+
+http://hbase.apache.org/book.html
+http://www.larsgeorge.com/
+https://blogs.apache.org/hbase/entry/coprocessor_introduction
+
+https://github.com/jrkinley/hbase-bulk-import-example
+http://www.deerwalk.com/blog/bulk-importing-data/
+
+Giraph
+
+http://engineering.linkedin.com/open-source/apache-giraph-framework-large-scale-graph-processing-hadoop-reaches-01-milestone
+
+Oozie
+
+http://www.infoq.com/articles/introductionOozie
+http://www.infoq.com/articles/oozieexample
+http://www.infoq.com/articles/ExtendingOozie
+
+http://oozie.apache.org/docs/3.3.0/CoordinatorFunctionalSpec.html
+http://www.crobak.org/2012/07/workflow-engines-for-hadoop/
+
+Flume
+
+https://blogs.apache.org/flume/entry/flume_ng_architecture
+https://cwiki.apache.org/confluence/display/FLUME/Getting+Started
+http://flume.apache.org/FlumeUserGuide.html
+http://blog.cloudera.com/blog/2012/11/streaming-data-into-apache-hbase-using-apache-flume/
+
+Pig
+
+http://hortonworks.com/blog/pig-eye-for-the-sql-guy/
+
+Storm
+
+Storm which has been released by Twitter is known as Hadoop for realtime processing. More about Storm here.
+
+https://github.com/nathanmarz/storm/wiki
+http://engineering.twitter.com/2011/08/storm-is-coming-more-details-and-plans.html
+http://www.ibm.com/developerworks/library/os-twitterstorm/index.html
+
+http://developer.yahoo.com/blogs/ydn/storm-hadoop-convergence-big-data-low-latency-processing-54503.html
+https://github.com/nathanmarz/storm/wiki/Common-patterns
+http://www.michael-noll.com/blog/2012/10/16/understanding-the-parallelism-of-a-storm-topology/
+http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/

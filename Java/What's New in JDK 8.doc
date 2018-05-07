@@ -1,0 +1,84 @@
+What's New in JDK 8
+ 
+Java Platform, Standard Edition 8 is a major feature release.
+
+Java Programming Language
+
+Lambda Expressions
+treat functionality as a method argument, or code as data
+expressed via instances of single-method interfaces 
+called functional interfaces
+Method references
+easy-to-read lambda expressions for methods that already have
+a name
+Default methods
+enable new functionality to be added to the interfaces
+ensure binary compatibility with code written for older versions of those interfaces
+Repeating Annotations
+ability to apply the same annotation type more than
+once to the same declaration or type use
+Type Annotations 
+ability to apply an annotation anywhere a type is used
+Improved type inference.
+
+Method parameter reflection.
+
+
+
+Collections
+new java.util.stream package.
+provide a Stream API to support functional-style operations on streams of elements
+The Stream API is integrated into the Collections API
+allowing bulk operations on collections, 
+sequential or parallel map-reduce transformations
+
+
+Compact Profiles
+new Compact Profiles.
+Compact Profiles contain predefined subsets of the Java SE platform and enable applications that do not require the entire Platform to be deployed and run on small devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

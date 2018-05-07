@@ -1,0 +1,47 @@
+http://www.slideshare.net/alimenkou/why-do-i-hate-hibernate-12998784
+
+
+
+Why do I hate Hibernate
+Mikalai Alimenkou
+(51 SlideShares) , Coach, Java Technical Lead, Scrum Master at Zoral Labs, XP Injection
+
+Published May 20, 2012
+
+Presentation from JEEConf conference (Kiev, May 2012) about issues in Hibernate usage and tricks to avoid them.
+Published in Technology
+
+Transcript
+
+    1. Why do I hate Hibernate Mikalai Alimenkou httpxpinjection.com 19.05.2012
+    2. CRUDR – read by ID
+    3. Why Hibernate is so popular 1. EJB 2 sucks! + 2. New “standard”
+    4. WTF #1. Nobody understand howequals and hashCode must look like
+    5. Comparison context is very important Hard to select real“unique business key”Performance issues with collections Auto-generated fields in Set
+    6. WTF #2. Mutable objects are evil
+    7. Default constructor must present Fields can’t be finalInconsistent object state is possibleOr… reflectionmagic happens
+    8. POJO bullshit game
+    9. WTF #3. DTO is evil patternwith Hibernate
+    10. Lots of code DTO maintenance duplications is nightmare Many solutions - transformers - beanutils - reflection - librariesCrazy DTO “don’tforget” checklist
+    11. WTF #4. Lazy loading
+    12. Nightmare for Everything is stupidly newcomers slow without it Almost nobody understand how it works Persistent collections are not serializable
+    13. WTF #5. Criteria API or HQL =
+    14. WTF!No need to know SQL Bullshit!!!
+    15. Different features set in HQL and Criteria API Hand made query builders in HQL No check for NULL in HQLCriteria API only for READ
+    16. WTF #6. To update single fieldyou should read full entity
+    17. Children and large Not everybody fields are loadedunderstand how ‘lazy loading’ works HQL update is not object-oriented At least 2 SQL queries for simple update
+    18. WTF #7. Temporary table usageon update or delete
+    19. WTF #8. Composite key requiresseparate class
+    20. WTF #9. Entity state can be managedonly from one side in parent-childrelationship
+    21. WTF #10. Flush on commit istoo unpredictable
+    22. Entity changes are persisted Collections operations are ‘live’ Constraints arechecked on commitNo control for SQL queries order
+    23. WTF #11. Dirty entity aftertransaction rollback can’t be reused
+    24. WTF #12. Documentation issimple but primitive
+    25. Only basic samples For complex are coveredthings you need books Bug reports are ignored Debug hell tounderstand how things work
+    26. WTF #13. Hibernate makesdevelopers stupid Are you joking
+    27. People don’t learn JDBC and SQL Nobody countSQL queries andcare about their structure Developersdon’t tune JDBC properties
+    28. When we really need to use ORM
+    29. Is CQRS more actual now
+    30. Useful books
+    31. @xpinjection httpxpinjection.commikalai.alimenkou@xpinjection.com
+

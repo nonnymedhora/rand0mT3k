@@ -1,0 +1,7 @@
+Apache Kafka is a publish/subscribe messaging system designed to solve this prob-
+lem. It is often described as a “distributed commit log”. A filesystem or database com-
+mit log is designed to provide a durable record of all transactions so that they can be
+replayed to consistently build the state of a system. Similarly, data within Kafka is
+stored durably, in order, and can be read deterministically. In addition, the data can
+be distributed within the system to provide additional protections against failures, as
+well as significant opportunities for scaling performance.
